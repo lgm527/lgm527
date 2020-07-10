@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
 I'm Laurell, a full stack software engineer and art nerd.
 
