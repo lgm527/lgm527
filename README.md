@@ -1,3 +1,5 @@
+# [![shenandoah](https://raw.githubusercontent.com/lgm527/lgm527/master/shenandoah.jpg)](https://laurellmccaffrey.com)
+
 ### Hey 👋
 
 I'm Laurell, a full stack software engineer and art nerd.
