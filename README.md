@@ -2,7 +2,7 @@
 
 Full stack software engineer and art nerd.
 
-If I’m not in front of a computer or piece of art, you can find me outside 🥾 hiking, 🚲 biking, or 🧘‍♀️ practicing yoga.
+If I’m not in front of a computer or piece of art, you can find me outside 🥾 hiking, 🚲  biking, or 🧘‍♀️  practicing yoga.
 
 ### Find me 🖥
 
