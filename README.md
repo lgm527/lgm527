@@ -12,8 +12,6 @@ If I’m not in front of a computer or piece of art, you can find me hiking, bik
 - [Glitch](https://www.glitch.com/@lgm527/)
 - [CodePen](https://www.codepen.io/lgm527/)
 
-# [![shenandoah](https://raw.githubusercontent.com/lgm527/lgm527/master/shenandoah.jpg)](https://laurellmccaffrey.com)
-
 <!--
 **lgm527/lgm527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
