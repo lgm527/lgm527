@@ -1,4 +1,4 @@
-# Hey I'm Laurell 👋
+# Hey, I'm Laurell 👋
 
 Full stack software engineer and art nerd.
 
