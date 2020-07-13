@@ -4,7 +4,7 @@ Full stack software engineer and art nerd.
 
 If I’m not in front of a computer or piece of art, you can find me outside 🥾 hiking, 🚲  biking, or 🧘‍♀️  practicing yoga.
 
-### Find me 🖥
+## Find me 🖥
 
 - [Portfolio](https://www.laurellmccaffrey.com/)
 - [LinkedIn](https://www.linkedin.com/in/lgm527/)
