@@ -12,9 +12,11 @@ If I’m not in front of a computer or piece of art, you can find me outside �
 - [Glitch](https://www.glitch.com/@lgm527/)
 - [CodePen](https://www.codepen.io/lgm527/)
 
-## In NYC and want to become a tree steward? Locate a tree near you by visiting the app linked below 🌲 ❤️
+## In NYC and want to become a tree steward? 🌲 ❤️
 
-[TreeTrends] (https://www.lgm527.github.io/tt2/)
+Locate a tree near you by visiting the app linked below:
+
+[TreeTrends](https://www.lgm527.github.io/tt2/)
 
 
 <!--
