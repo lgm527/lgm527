@@ -5,12 +5,8 @@ Full stack software engineer and art nerd.
 If I’m not in front of a computer or piece of art, you can find me outside 🥾 hiking, 🚲  biking, or 🧘‍♀️  practicing yoga.
 
 ## Find me 🖥
+[Portfolio](https://laurellmccaffrey.com/) [LinkedIn](https://www.linkedin.com/in/lgm527/) [Medium](https://www.medium.com/@lgm527/) [Glitch](https://www.glitch.com/@lgm527/) [CodePen](https://www.codepen.io/lgm527/)
 
-- [Portfolio](https://laurellmccaffrey.com/)
-- [LinkedIn](https://www.linkedin.com/in/lgm527/)
-- [Medium](https://www.medium.com/@lgm527/)
-- [Glitch](https://www.glitch.com/@lgm527/)
-- [CodePen](https://www.codepen.io/lgm527/)
 
 ## In NYC and want to become a tree steward?
 
@@ -30,4 +26,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+- [Portfolio](https://laurellmccaffrey.com/)
+- [LinkedIn](https://www.linkedin.com/in/lgm527/)
+- [Medium](https://www.medium.com/@lgm527/)
+- [Glitch](https://www.glitch.com/@lgm527/)
+- [CodePen](https://www.codepen.io/lgm527/)
 -->
