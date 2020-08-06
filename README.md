@@ -1,6 +1,6 @@
 # Hey, I'm Laurell 👋
 
-Full stack software engineer and art nerd.
+Full stack software engineer & art nerd.
 
 If I’m not in front of a computer or piece of art, you can find me outside 🥾 hiking, 🚲  biking, or 🧘‍♀️  practicing yoga.
 
