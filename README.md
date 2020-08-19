@@ -12,7 +12,7 @@ If I’m not in front of a computer or piece of art, you can find me outside �
 
 Locate a tree near you at [TreeTrends](https://lgm527.github.io/tt2/) 🌲
 
-## Create a baseball card with your GitHub Statistics
+## Turn your GitHub Statistics into a baseball card
 
 Swing on over to [GitStats](https://git-stats-and-octocats.netlify.app/) ⚾️
  
