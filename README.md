@@ -4,8 +4,6 @@ Full stack software engineer & art nerd.
 
 If I’m not in front of a computer or piece of art, you can find me outside 🥾&nbsp; hiking, 🚲&nbsp; biking, or 🧘‍♀️&nbsp; practicing yoga.
 
-Happy [Hacktoberfest 2020!](https://hacktoberfest.digitalocean.com/) 🎉
-
 ## Find me 🖥
 [Portfolio](https://laurellmccaffrey.com/) ✦ [LinkedIn](https://www.linkedin.com/in/lgm527/) ✦ [Medium](https://www.medium.com/@lgm527/) ✦ [Glitch](https://www.glitch.com/@lgm527/) ✦ [CodePen](https://www.codepen.io/lgm527/)
 
