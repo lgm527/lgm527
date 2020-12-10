@@ -15,7 +15,11 @@ Locate a tree near you at [TreeTrends](https://lgm527.github.io/tt2/) 🌲
 ## Turn your GitHub Statistics into a baseball card
 
 Swing on over to [GitStats](https://git-stats-and-octocats.netlify.app/) ⚾️
- 
+
+## Timed Music Trivia Game
+
+Test your knowledge of Frank Zappa lyrics and [Eat That Question](http://eat-that-question.netlify.app/) 🔮
+
 
 <!--
 **lgm527/lgm527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
