@@ -18,7 +18,7 @@ Swing on over to [GitStats](https://git-stats-and-octocats.netlify.app/) ⚾️
 
 ## Timed Music Trivia Game
 
-Test your knowledge of Frank Zappa lyrics and [Eat That Question](http://eat-that-question.netlify.app/) 🔮
+Test your knowledge of Frank Zappa lyrics at [Eat That Question](http://eat-that-question.netlify.app/) 🔮
 
 
 <!--
