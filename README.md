@@ -9,7 +9,7 @@ If I’m not in front of a computer or piece of art, you can find me outside �
 
 
 ## Dad Jokes Please
-Infinite dad jokes on the ready [here!](https://dad-jokes-please.netlify.app/) 👨
+Infinite dad jokes on the ready [here](https://dad-jokes-please.netlify.app/) 👨
 
 ## In NYC and want to become a tree steward?
 
